@@ -1,19 +1,19 @@
 ---
-description: Oppretting av felger
-dateModified: '2016-08-19T21:26:23.279Z'
-datePublished: '2016-08-19T21:26:23.946Z'
-title: ''
-author: []
-publisher: {}
-via: {}
-starred: false
+datePublished: '2016-08-19T21:28:46.376Z'
 sourcePath: _posts/2016-08-19-oppretting-av-felger.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+author: []
+via: {}
+dateModified: '2016-08-19T21:28:45.862Z'
+title: Hoved
+publisher: {}
+description: Oppretting av felger
+hasPage: true
+starred: false
+url: hoved/index.html
+_type: Blurb
 
 ---
+# Hoved
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff1cec23-56f8-4c7e-b354-a598d69562cb.jpg)
 
 **Oppretting av felger**
