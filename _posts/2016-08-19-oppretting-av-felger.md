@@ -1,20 +1,19 @@
 ---
-datePublished: '2016-08-19T21:27:07.054Z'
-sourcePath: _posts/2016-08-19-oppretting-av-felger.md
-author: []
-via: {}
-dateModified: '2016-08-19T21:27:06.619Z'
-title: Hoved
-publisher: {}
 description: Oppretting av felger
+dateModified: '2016-08-19T21:26:23.279Z'
+datePublished: '2016-08-19T21:26:23.946Z'
+title: ''
+author: []
+publisher: {}
+via: {}
 starred: false
+sourcePath: _posts/2016-08-19-oppretting-av-felger.md
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-# Hoved
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff1cec23-56f8-4c7e-b354-a598d69562cb.jpg)
 
 **Oppretting av felger**
