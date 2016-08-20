@@ -1,4 +1,3 @@
-layout_spectrum: 0.6663941356819123
 typography_spectrum: 0.032216868828982115
 color:
   brandStrength: 0.9531497932039201
@@ -13,13 +12,14 @@ color:
     - '#363942'
 opengraph:
   type: ''
+layout_spectrum: 0.6663941356819123
 author:
-  name: Ole Vik
+  name: Oslo Felgretting AS
   email: post@oslofelgretting.no
   url: www.oslofelgretting.no
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/b742d476-e3cf-4791-9aa6-062bd2bfba3e.png
-name: Oslo Felgretting AS
+name: Oslo Felgretting
 navigation:
   - name: Info
     id: f570d63a-74d1-448e-8373-3e636777f98a
