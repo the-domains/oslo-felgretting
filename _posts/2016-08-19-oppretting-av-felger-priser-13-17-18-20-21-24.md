@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-19T22:34:03.580Z'
+datePublished: '2016-08-19T22:48:54.099Z'
 sourcePath: _posts/2016-08-19-oppretting-av-felger-priser-13-17-18-20-21-24.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T22:34:02.857Z'
+dateModified: '2016-08-19T22:48:53.696Z'
 title: Priser
 publisher: {}
 description: >-
@@ -16,7 +16,6 @@ _type: Blurb
 
 ---
 # Priser
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b13bc130-b71c-4e9b-9958-cbce726dd756.jpg)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f89b5bf2-6839-4259-8e58-0c098c1d600c.png)
 
 \* Vi retter alltid felger før de sveises og retter etter sveising om nødvendig. Dette må tas med i prisen, dvs retting og sveising fra
@@ -27,6 +26,7 @@ _type: Blurb
 
 \* For oppussing og lakkering av felger, vennligst ta kontakt for prisvurdering. Send gjerne bilde av skadene på epost. Beregn fra 1250 - 1700 pr felg
 
-\*****Vi tar kun VISA og bankkort. Ikke MasterCard. Helst ikke kontant da vår bank (Bank2) ikke tar imot kontanter. Våre faste bedriftskunder får faktura på epost.
+\*Vi tar kun VISA og bankkort. Ikke MasterCard. Helst ikke kontant da vår bank (Bank2) ikke tar imot kontanter. Våre faste bedriftskunder får faktura på epost.
 
 \* Alle priser er ink. MVA
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3c7d86fc-1e11-4cb5-8cf7-f8b87139cad5.jpg)
