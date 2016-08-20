@@ -1,59 +1,31 @@
 ---
-description: >-
-  Oppretting av felgerPriser:13 - 17"  18 - 20" 21 - 24"  I tillegg:Ytterbane /
-  sidekast Sveising av sprekk, fra Montering / Balansering <18"
-dateModified: '2016-08-19T21:43:34.736Z'
-datePublished: '2016-08-19T21:43:35.403Z'
-title: ''
-author: []
-publisher: {}
-via: {}
+datePublished: '2016-08-19T22:28:44.282Z'
 sourcePath: _posts/2016-08-19-oppretting-av-felger-priser-13-17-18-20-21-24.md
 hasPage: true
+author: []
+via: {}
+dateModified: '2016-08-19T22:28:43.681Z'
+title: Priser
+publisher: {}
+description: >-
+  * Vi retter alltid felger før de sveises og retter etter sveising om
+  nødvendig. Dette må tas med i prisen, dvs retting og sveising fra 1.350kr
 starred: false
 url: oppretting-av-felgerpriser13-17-18-20-21-24-i-ti/index.html
 _type: Blurb
 
 ---
-<iframe src="https://the-grid.github.io/ed-location/?latitude=59.920128&amp;longitude=10.826945&amp;zoom=12&amp;address=Caspar%20Storms%20vei%2010%2C%20Oslo%2C%200664%20Oslo%2C%20Norway" style=""></iframe>
+# Priser
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f89b5bf2-6839-4259-8e58-0c098c1d600c.png)
 
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/fb28cac7-1d17-4596-afcf-2d308328edae.jpg)
-
-**Oppretting av felger****Priser:**  
-****13 - 17"   
-18 - 20"  
-21 - 24"   
-****  
-**I tillegg:**  
-****Ytterbane / sidekast  
-Sveising av sprekk, fra  
-Montering / Balansering <18"
-
-Montering / Balansering \>18"  
-Hjulskift
-
-\* Vi retter alltid felger før de sveises og retter etter sveising om nødvendig. Dette må tas med i prisen, dvs retting og sveising fra
+\* Vi retter alltid felger før de sveises og retter etter sveising om nødvendig. Dette må tas med i prisen, dvs retting og sveising fra 1.350kr
 
 \* Flere sprekker i en felg? 250kr ekstra pr sprekk. 3 sprekker eller mer anbefales ikke å reparere, ny felg burde kjøpes
 
 \* Priser på oppretting inkluderer demontering av dekk
 
-\* For oppussing og lakkering av felger, vennligst ta kontakt for prisvurdering. Send gjerne bilde av skadene på epost. Beregn fra 1250 - 1700 pr felg
+\* For oppussing og lakkering av felger, vennligst ta kontakt for prisvurdering. Send gjerne bilde av skadene på epost. Beregn fra 1250 - 2000 pr felg
 
-**\* Vi tar kun VISA og bankkort. Ikke MasterCard. Helst ikke kontant da vår bank (Bank2) ikke tar imot kontanter. Våre faste bedriftskunder får faktura på epost.**
+**\*** Vi tar kun VISA og bankkort. Ikke MasterCard. Helst ikke kontant da vår bank (Bank2) ikke tar imot kontanter. Våre faste bedriftskunder får faktura på epost.
 
 **\* Alle priser er ink. MVA**
-
-650 kr  
-750 kr  
-950 kr  
-  
-  
-200 kr  
-700 kr  
-125 kr
-
-175 kr  
-80 kr  
-
-1300 - 1650 kr
