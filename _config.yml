@@ -10,7 +10,13 @@ color:
     - '#284907'
     - '#382513'
     - '#363942'
+opengraph:
+  type: ''
 layout_spectrum: 0.7525188568979502
+author:
+  name: Ole Vik
+  email: post@oslofelgretting.no
+  url: www.oslofelgretting.no
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fce0b471-fbf7-4eda-b5b3-aa8e371c74d3.jpg
 name: Oslo Felgretting AS
