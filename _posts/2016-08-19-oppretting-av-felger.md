@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-19T22:23:05.710Z'
+datePublished: '2016-08-19T23:18:32.812Z'
 sourcePath: _posts/2016-08-19-oppretting-av-felger.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T22:23:05.246Z'
-title: Hoved
+dateModified: '2016-08-19T23:18:32.363Z'
+title: ''
 publisher: {}
 description: Oppretting av felger
 starred: false
@@ -13,7 +13,6 @@ url: hoved/index.html
 _type: Blurb
 
 ---
-# Hoved
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ff1cec23-56f8-4c7e-b354-a598d69562cb.jpg)
 
 **Oppretting av felger**
