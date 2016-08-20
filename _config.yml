@@ -1,37 +1,14 @@
-layout_spectrum: 0.1522556042764336
-typography_spectrum: 0.24895956087857485
+layout_spectrum: 0.7525188568979502
+typography_spectrum: 0.938331536250189
 color:
-  brandStrength: 0.9531497932039201
-  lightness: 0.12771895923651755
-  saturation: 0.9828771178144962
-  rhythmicContrast: 0.07990375952795148
+  brandStrength: 0.18828413425944746
+  lightness: 0.9140634832438082
+  saturation: 0.5986697834450752
+  rhythmicContrast: 0.15131006273441017
   brandColors:
-    - '#D8CAA8'
-    - '#5C832F'
-    - '#284907'
-    - '#382513'
-    - '#363942'
-opengraph:
-  type: ''
-author:
-  name: Oslo Felgretting AS
-  email: post@oslofelgretting.no
-  url: www.oslofelgretting.no
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b742d476-e3cf-4791-9aa6-062bd2bfba3e.png
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
 name: Oslo Felgretting
-navigation:
-  - name: Hva gjør vi?
-    id: f570d63a-74d1-448e-8373-3e636777f98a
-    type: content
-  - name: Priser
-    id: 16165f06-22c1-459b-a273-5c98f0f733d1
-    type: content
-  - name: Dekk og felger
-    id: a337a64f-beac-4658-bb06-8a9acc5218d3
-    type: content
-  - name: Kontakt oss
-    id: 2addc55d-fd2e-4315-8613-5f4e09a89845
-    type: content
-title: Reparasjon og oppussing av felger
-description: Når service og erfaring teller
