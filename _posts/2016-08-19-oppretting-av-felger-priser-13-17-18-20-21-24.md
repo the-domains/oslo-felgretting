@@ -1,19 +1,18 @@
 ---
 description: >-
-  Oppretting av felger Priser:  13 - 17"   18 - 20"  21 - 24"     I tillegg: 
-  Ytterbane / sidekast  Sveising av sprekk, fra  Montering / Balansering <18"
-dateModified: '2016-08-19T21:41:54.907Z'
-datePublished: '2016-08-19T21:43:02.727Z'
+  Oppretting av felgerPriser:13 - 17"  18 - 20" 21 - 24"  I tillegg:Ytterbane /
+  sidekast Sveising av sprekk, fra Montering / Balansering <18"
+dateModified: '2016-08-19T21:43:34.736Z'
+datePublished: '2016-08-19T21:43:35.403Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-19-oppretting-av-felger-priser-13-17-18-20-21-24.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: oppretting-av-felgerpriser13-17-18-20-21-24-i-ti/index.html
+_type: Blurb
 
 ---
 <iframe src="https://the-grid.github.io/ed-location/?latitude=59.920128&amp;longitude=10.826945&amp;zoom=12&amp;address=Caspar%20Storms%20vei%2010%2C%20Oslo%2C%200664%20Oslo%2C%20Norway" style=""></iframe>
