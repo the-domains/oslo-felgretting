@@ -22,5 +22,8 @@ navigation:
   - name: Dekk og felger
     id: a337a64f-beac-4658-bb06-8a9acc5218d3
     type: content
+  - name: Kontakt oss
+    id: 2addc55d-fd2e-4315-8613-5f4e09a89845
+    type: content
 title: Reparasjon og oppussing av felger
 description: Når service og erfaring teller
