@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-19T21:28:46.376Z'
+datePublished: '2016-08-19T22:23:05.710Z'
 sourcePath: _posts/2016-08-19-oppretting-av-felger.md
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T21:28:45.862Z'
+dateModified: '2016-08-19T22:23:05.246Z'
 title: Hoved
 publisher: {}
 description: Oppretting av felger
-hasPage: true
 starred: false
 url: hoved/index.html
 _type: Blurb
