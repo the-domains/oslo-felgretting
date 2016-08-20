@@ -16,5 +16,8 @@ navigation:
   - name: Info
     id: f570d63a-74d1-448e-8373-3e636777f98a
     type: content
+  - name: Priser
+    id: 16165f06-22c1-459b-a273-5c98f0f733d1
+    type: content
 title: Reparasjon og oppussing av felger
 description: Når god service og lang erfaring teller
