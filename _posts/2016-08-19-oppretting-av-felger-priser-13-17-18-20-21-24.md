@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-19T22:48:54.099Z'
+datePublished: '2016-08-19T22:51:13.557Z'
 sourcePath: _posts/2016-08-19-oppretting-av-felger-priser-13-17-18-20-21-24.md
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-19T22:48:53.696Z'
-title: Priser
+dateModified: '2016-08-19T22:51:13.102Z'
+title: ''
 publisher: {}
 description: >-
   * Vi retter alltid felger før de sveises og retter etter sveising om
@@ -15,7 +15,6 @@ url: oppretting-av-felgerpriser13-17-18-20-21-24-i-ti/index.html
 _type: Blurb
 
 ---
-# Priser
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f89b5bf2-6839-4259-8e58-0c098c1d600c.png)
 
 \* Vi retter alltid felger før de sveises og retter etter sveising om nødvendig. Dette må tas med i prisen, dvs retting og sveising fra
